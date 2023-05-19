@@ -2,7 +2,7 @@ import cv2, sys, os
 import pytesseract
 from os import path
 
-pytesseract.pytesseract.tesseract_cmd = r'G:\\TesseractPY\\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'ВСТАВЬТЕ ПУТЬ К tesseract.exe'
 
 array_name_picture=[]
 
